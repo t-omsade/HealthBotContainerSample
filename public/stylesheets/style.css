@@ -31,3 +31,30 @@ body {
   right: unset;
   transform: translate(-50%, 0);
 }
+
+#webchat {
+  position: fixed;
+  top: 100px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: auto;
+}
+
+body {
+  font-size: medium;
+}
+
+label.ac-textBlock {
+  text-align: right !important;
+ }
+
+
+.webchat__stacked_indented_content {
+  direction: rtl;
+  text-align: right
+}
+
+.webchat__stackedLayout--fromUser {
+  direction: ltr;
+}
