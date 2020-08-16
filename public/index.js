@@ -106,7 +106,7 @@ function initBotConversation() {
 
                             // Use the following activity to proactively invoke a bot scenario
                             triggeredScenario: {
-                                trigger: "covid19_general_form_omer",
+                                trigger: "covid19_general_form_V2",
                                 args: {
                                 }
                             }
