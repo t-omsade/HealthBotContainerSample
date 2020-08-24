@@ -56,7 +56,7 @@ label.ac-textBlock {
 }
 
 .webchat__stackedLayout--fromUser {
-  direction: ltr;
+  direction: rtl;
 }
 
 .old-button, .ac-pushButton {
